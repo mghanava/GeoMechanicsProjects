@@ -1,0 +1,10 @@
+Fault_segment	Fault_segment_azimuth
+1	350
+2	40
+3	320
+4	50
+5	35
+6	45
+7	60
+8	85
+9	30
